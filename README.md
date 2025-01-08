@@ -1,4 +1,4 @@
-## Hej! 👋
+## Witam na moim GitHub! 👋
 - Nazywam się Igor i jestem studentem drugiego roku Informatyki na AGH
 - 🌱 Obecnie uczę się języków i technologii:  
   - **Java** ☕  
