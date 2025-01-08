@@ -11,6 +11,6 @@
 
 ## Moje repozytoria 🔗
 - [Programowanie obiektowe](https://github.com/igorpie1705/PO) - Projekt z kursu programowania obiektowego w Javie.  
-- [Wstęp do aplikacji internetowych](https://github.com/igorpie1705/WDAI) - Projekt i rozwiązania zadań z kursu wstępu do aplikacji internetowych.  
+- [Wstęp do aplikacji internetowych](https://github.com/igorpie1705/WDAI) - Projekty i rozwiązania zadań z kursu wstępu do aplikacji internetowych.  
 - [Programowanie funkcyjne](https://github.com/igorpie1705/PF) - Rozwiązania zadań z Haskella w ramach kursu programowania funkcyjnego.  
 - [Projekt z MES](https://github.com/igorpie1705/MES) - Rozwiązanie równania różniczkowego za pomocą Metody Elementów Skończonych w Pythonie.
