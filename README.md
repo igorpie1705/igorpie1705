@@ -4,7 +4,7 @@
   - **Java** ☕  
   - **React** ⚛️  
   - **Haskell** λ  
-  - **Python** 🐍  
+  - **Python** 🐍
 - 💡 Bardzo interesuje mnie zgłębianie różnorodnych paradygmatów programowania i tworzenie oprogramowania, które łączy jakość z funkcjonalnością.
 - 🎯 Moim celem jest stać się wszechstronnym programistą, który tworzy innowacyjne projekty i rozwiązuje złożone problemy przy użyciu nowoczesnych technologii.
 - 📫 Skontaktuj się ze mną: igorpiesik17@gmail.com
@@ -14,3 +14,4 @@
 - [Wstęp do aplikacji internetowych](https://github.com/igorpie1705/WDAI) - Projekty i rozwiązania zadań z kursu wstępu do aplikacji internetowych.  
 - [Programowanie funkcyjne](https://github.com/igorpie1705/PF) - Rozwiązania zadań z Haskella w ramach kursu programowania funkcyjnego.  
 - [Projekt z MES](https://github.com/igorpie1705/MES) - Rozwiązanie równania różniczkowego za pomocą Metody Elementów Skończonych w Pythonie.
+- Niedługo pojawią się repozytoria z kolejnych projektów, nad którymi właśnie pracuję (między innymi projekt zespołowy z Javy), ale muszą być w tym momencie prywatne.
