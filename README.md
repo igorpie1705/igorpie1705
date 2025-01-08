@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hej! 👋
+- Nazywam się Igor i jestem studentem drugiego roku Informatyki na AGH
+- 🌱 Obecnie uczę się języków i technologii:  
+  - **Java** ☕  
+  - **React** ⚛️  
+  - **Haskell** λ  
+  - **Python** 🐍  
+- 💡 Bardzo interesuje mnie zgłębianie różnorodnych paradygmatów programowania i tworzenie oprogramowania, które łączy jakość z funkcjonalnością.
+- 🎯 Moim celem jest rozwój jako wszechstronny programista zdolny do realizacji innowacyjnych rozwiązań technologicznych.
+- 📫 Skontaktuj się ze mną: igorpiesik17@gmail.com
 
-<!--
-**igorpie1705/igorpie1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Moje repozytoria 🔗
+- [Programowanie obiektowe](https://github.com/igorpie1705/PO) - Projekt z kursu programowania obiektowego w Javie.  
+- [Wstęp do aplikacji internetowych](https://github.com/igorpie1705/WDAI) - Projekt i rozwiązania zadań z kursu wstępu do aplikacji internetowych.  
+- [Programowanie funkcyjne](https://github.com/igorpie1705/PF) - Rozwiązania zadań z Haskella w ramach kursu programowania funkcyjnego.  
+- [Projekt z MES](https://github.com/igorpie1705/MES) - Rozwiązanie równania różniczkowego za pomocą Metody Elementów Skończonych w Pythonie.
