@@ -6,7 +6,7 @@
   - **Haskell** λ  
   - **Python** 🐍  
 - 💡 Bardzo interesuje mnie zgłębianie różnorodnych paradygmatów programowania i tworzenie oprogramowania, które łączy jakość z funkcjonalnością.
-- 🎯 Moim celem jest rozwój jako wszechstronny programista zdolny do realizacji innowacyjnych rozwiązań technologicznych.
+- 🎯 Moim celem jest stać się wszechstronnym programistą, który tworzy innowacyjne projekty i rozwiązuje złożone problemy przy użyciu nowoczesnych technologii.
 - 📫 Skontaktuj się ze mną: igorpiesik17@gmail.com
 
 ## Moje repozytoria 🔗
