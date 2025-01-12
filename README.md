@@ -7,7 +7,7 @@
   - **Python** 🐍
 - 💡 Bardzo interesuje mnie zgłębianie różnorodnych paradygmatów programowania i tworzenie oprogramowania, które łączy jakość z funkcjonalnością.
 - 🎯 Moim celem jest stać się wszechstronnym programistą, który tworzy innowacyjne projekty i rozwiązuje złożone problemy przy użyciu nowoczesnych technologii.
-- 📫 Skontaktuj się ze mną: igorpiesik17@gmail.com
+- 📫 Skontaktuj się ze mną: igor.piesik.04@gmail.com
 
 ## Moje repozytoria 🔗
 - [Programowanie obiektowe](https://github.com/igorpie1705/PO) - Projekt z kursu programowania obiektowego w Javie.  
