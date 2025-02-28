@@ -9,9 +9,9 @@
 - 🎯 Moim celem jest stać się wszechstronnym programistą, który tworzy innowacyjne projekty i rozwiązuje złożone problemy przy użyciu nowoczesnych technologii.
 - 📫 Skontaktuj się ze mną: igor.piesik.04@gmail.com
 
-## Moje repozytoria 🔗
+## Moje repozytoria i projekty 🔗
 - [Programowanie obiektowe](https://github.com/igorpie1705/PO) - Projekt z kursu programowania obiektowego w Javie.  
-- [Wstęp do aplikacji internetowych](https://github.com/igorpie1705/WDAI) - Projekty i rozwiązania zadań z kursu wstępu do aplikacji internetowych.  
-- [Programowanie funkcyjne](https://github.com/igorpie1705/PF) - Rozwiązania zadań z Haskella w ramach kursu programowania funkcyjnego.  
+- [Prosty Sklep Internetowy](https://github.com/Maciej-Sitny/Projekt-WDAI) - Nowoczesna aplikacja sklepu internetowego.
+- [Projekt z Machine Learning](https://github.com/igorpie1705/NKB) - Projekt ML Naiwny Klasyfikator Bayesowski.  
+- [Programowanie funkcyjne](https://github.com/igorpie1705/PF) - Rozwiązania zadań z Haskella w ramach kursu programowania funkcyjnego.
 - [Projekt z MES](https://github.com/igorpie1705/MES) - Rozwiązanie równania różniczkowego za pomocą Metody Elementów Skończonych w Pythonie.
-- Niedługo pojawią się repozytoria z kolejnych projektów, nad którymi właśnie pracuję (między innymi projekt zespołowy z Javy), ale muszą być w tym momencie prywatne.
