@@ -10,8 +10,8 @@
 - 📫 Skontaktuj się ze mną: igor.piesik.04@gmail.com
 
 ## Moje repozytoria i projekty 🔗
-- [Programowanie obiektowe](https://github.com/igorpie1705/PO) - Projekt z kursu programowania obiektowego w Javie.  
-- [Prosty Sklep Internetowy](https://github.com/Maciej-Sitny/Projekt-WDAI) - Nowoczesna aplikacja sklepu internetowego.
-- [Projekt z Machine Learning](https://github.com/igorpie1705/NKB) - Projekt ML Naiwny Klasyfikator Bayesowski.  
-- [Programowanie funkcyjne](https://github.com/igorpie1705/PF) - Rozwiązania zadań z Haskella w ramach kursu programowania funkcyjnego.
-- [Projekt z MES](https://github.com/igorpie1705/MES) - Rozwiązanie równania różniczkowego za pomocą Metody Elementów Skończonych w Pythonie.
+- [Symulacja życia](https://github.com/igorpie1705/Darwin-Simulation) - projekt symulacji ekosystemu w ramach kursu programowania obiektowego w Javie.  
+- [Prosty Sklep Internetowy](https://github.com/Maciej-Sitny/Projekt-WDAI) - nowoczesna aplikacja sklepu internetowego.
+- [Klasyfikator Bayesowski (ML)](https://github.com/igorpie1705/NKB) - projekt z zakresu uczenia maszynowego, implementacja Naiwnego Klasyfikatora Bayesowskiego.  
+- [Programowanie funkcyjne](https://github.com/igorpie1705/PF) - rozwiązania zadań w ramach kursu programowania funkcyjnego.
+- [Projekt z MES](https://github.com/igorpie1705/MES) - rozwiązanie równania różniczkowego za pomocą Metody Elementów Skończonych w Pythonie.
