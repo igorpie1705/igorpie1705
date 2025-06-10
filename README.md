@@ -1,5 +1,5 @@
-**Witaj na moim GitHubie!** 👋
-Nazywam się Igor i jestem studentem drugiego roku Informatyki na AGH.
+## Witaj na moim GitHubie! 👋
+### Nazywam się Igor i jestem studentem drugiego roku Informatyki na AGH.
 
 🌱 **Obecnie uczę się:**
 
