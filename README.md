@@ -4,9 +4,9 @@
 🌱 **Obecnie uczę się:**
 
 * **Julia** (analiza numeryczna, metody obliczeniowe) 📈
-* **Systemy operacyjne i technika cyfrowa** 💾🔌
 * **Web Development** (React, Node.js) 🌐
 * **Bazy danych** (MongoDB, Oracle) 🗃️
+* **Systemy operacyjne i technika cyfrowa** 💾🔌
 
 Bardzo interesuje mnie zgłębianie różnorodnych paradygmatów programowania oraz tworzenie oprogramowania, które łączy jakość z funkcjonalnością.
 Moim celem jest stać się wszechstronnym programistą, który tworzy innowacyjne projekty i rozwiązuje złożone problemy przy użyciu nowoczesnych technologii.
