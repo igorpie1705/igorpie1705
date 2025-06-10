@@ -1,5 +1,5 @@
 ## Witaj na moim GitHubie! 👋
-- Nazywam się Igor i jestem studentem drugiego roku Informatyki na AGH
+### Nazywam się Igor i jestem studentem drugiego roku Informatyki na AGH
 - 🌱 Obecnie uczę się:
   - **Julia (analiza numeryczna, metody obliczeniowe)** 📈
   - **Systemy operacyjne i technika cyfrowa** 💾🔌
