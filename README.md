@@ -1,20 +1,22 @@
-## Witaj na moim GitHubie! 👋
-### Nazywam się Igor i jestem studentem drugiego roku Informatyki na AGH.
+## Welcome to my GitHub! 👋
 
-🌱 **Obecnie uczę się:**
+### My name is Igor and I’m a second-year Computer Science student at AGH University of Science and Technology.
 
-* **Julia** (analiza numeryczna, metody obliczeniowe) 📈
+🌱 **Currently learning:**
+
+* **Julia** (numerical analysis, computational methods) 📈
 * **Web Development** (React, Node.js) 🌐
-* **Bazy danych** (MongoDB, Oracle) 🗄️
-* **Systemy operacyjne i technika cyfrowa** 🖥️⚙️
+* **Databases** (MongoDB, Oracle) 🗄️
+* **Operating Systems and Digital Technology** 🖥️⚙️
 
-Bardzo interesuje mnie zgłębianie różnorodnych paradygmatów programowania oraz tworzenie oprogramowania, które łączy jakość z funkcjonalnością.
-Moim celem jest stać się wszechstronnym programistą, który tworzy innowacyjne projekty i rozwiązuje złożone problemy przy użyciu nowoczesnych technologii.
+I'm passionate about exploring diverse programming paradigms and creating software that combines quality with functionality.
+My goal is to become a versatile developer who builds innovative projects and solves complex problems using modern technologies.
 
-📬 **Skontaktuj się ze mną:** [igor.piesik.04@gmail.com](mailto:igor.piesik.04@gmail.com)
+📬 **Feel free to get in touch:** [igor.piesik.04@gmail.com](mailto:igor.piesik.04@gmail.com)
 
-## Moje repozytoria i projekty 🔗
-- [Symulacja życia](https://github.com/igorpie1705/darwin-simulation) - projekt symulacji ekosystemu w ramach kursu programowania obiektowego w Javie.  
-- [Prosty Sklep Internetowy](https://github.com/Maciej-Sitny/Projekt-WDAI) - prosta aplikacja sklepu internetowego.
-- [Klasyfikator Bayesowski (ML)](https://github.com/igorpie1705/NKB) - projekt z zakresu uczenia maszynowego, implementacja Naiwnego Klasyfikatora Bayesowskiego.  
-- [Projekt z MES](https://github.com/igorpie1705/MES) - rozwiązanie równania różniczkowego za pomocą Metody Elementów Skończonych w Pythonie.
+## My repositories and projects 🔗
+
+* [Life Simulation](https://github.com/igorpie1705/darwin-simulation) – a project simulating an ecosystem, created as part of an object-oriented programming course in Java.
+* [Simple Online Store](https://github.com/Maciej-Sitny/Projekt-WDAI) – a basic web store application.
+* [Bayesian Classifier (ML)](https://github.com/igorpie1705/NKB) – a machine learning project implementing a Naive Bayesian Classifier.
+* [FEM Project](https://github.com/igorpie1705/MES) – solving a differential equation using the Finite Element Method in Python.
