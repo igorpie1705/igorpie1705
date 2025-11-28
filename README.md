@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👋
 
-### My name is Igor and I’m a second-year Computer Science student at AGH University of Science and Technology.
+### My name is Igor and I’m a third-year Computer Science student at AGH University of Science and Technology.
 
 🌱 **Currently learning:**
 
