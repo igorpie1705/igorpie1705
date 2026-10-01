@@ -8,7 +8,7 @@ I’m a final-year Computer Science student at AGH UST and a Software Engineer I
 * Developing scalable backends with **Kotlin, Hexagonal Architecture, and DDD**.
 
 ### 🛠️ Tech Stack
-**Languages:** Python, Java, Kotlin, TypeScript
+**Languages:** Python, Java, Kotlin, Go, TypeScript
 **Frameworks & Architecture:** Spring Boot, Next.js, React, Node.js, Domain-Driven Design (DDD)  
 **Infrastructure & DBs:** PostgreSQL, Prisma, Docker, GitHub
 
