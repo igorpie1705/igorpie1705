@@ -1,22 +1,15 @@
-## Welcome to my GitHub! 👋
+# Igor Piesik 👋
 
-### My name is Igor and I’m a third-year Computer Science student at AGH University of Science and Technology.
+I’m a final-year Computer Science student at AGH UST and a Software Engineer Intern at IBM. 
 
-🌱 **Currently learning:**
+### 🚀 Current Focus
+* Designing enterprise-grade **Java/Spring Boot** microservices.
+* Engineering a multi-tenant B2B SaaS using **Next.js, TypeScript, and PostgreSQL**.
+* Developing scalable backends with **Kotlin, Hexagonal Architecture, and DDD**.
 
-* **Julia** (numerical analysis, computational methods) 📈
-* **Web Development** (React, Node.js) 🌐
-* **Databases** (MongoDB, Oracle) 🗄️
-* **Operating Systems and Digital Technology** 🖥️⚙️
+### 🛠️ Tech Stack
+**Languages:** Python, Java, Kotlin, TypeScript
+**Frameworks & Architecture:** Spring Boot, Next.js, React, Node.js, Domain-Driven Design (DDD)  
+**Infrastructure & DBs:** PostgreSQL, Prisma, Docker, GitHub
 
-I'm passionate about exploring diverse programming paradigms and creating software that combines quality with functionality.
-My goal is to become a versatile developer who builds innovative projects and solves complex problems using modern technologies.
-
-📬 **Feel free to get in touch:** [igor.piesik.04@gmail.com](mailto:igor.piesik.04@gmail.com)
-
-## My repositories and projects 🔗
-
-* [Life Simulation](https://github.com/igorpie1705/darwin-simulation) – a project simulating an ecosystem, created as part of an object-oriented programming course in Java.
-* [Simple Online Store](https://github.com/Maciej-Sitny/Projekt-WDAI) – a basic web store application.
-* [Bayesian Classifier (ML)](https://github.com/igorpie1705/NKB) – a machine learning project implementing a Naive Bayesian Classifier.
-* [FEM Project](https://github.com/igorpie1705/MES) – solving a differential equation using the Finite Element Method in Python.
+📬 Contact: igor.piesik.04@gmail.com
